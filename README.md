@@ -28,3 +28,5 @@
 再将p赋给reverse.next，这样就使结点2成为reverse的后继。此时reverse——结点2——结点1
 
 以此循环完成反转后，将reverse.next赋给head.next即可。
+
+B站视频（来自@Code_97）：https://www.bilibili.com/video/BV1Ai4y157mn?share_source=copy_web
